@@ -1,0 +1,831 @@
+county,gini
+"Baldwin County, Alabama",0.4722
+"Calhoun County, Alabama",0.4219
+"Cullman County, Alabama",0.4438
+"DeKalb County, Alabama",0.4639
+"Elmore County, Alabama",0.462
+"Etowah County, Alabama",0.4125
+"Houston County, Alabama",0.4854
+"Jefferson County, Alabama",0.495
+"Lauderdale County, Alabama",0.4737
+"Lee County, Alabama",0.4927
+"Limestone County, Alabama",0.4502
+"Madison County, Alabama",0.4711
+"Marshall County, Alabama",0.482
+"Mobile County, Alabama",0.4789
+"Montgomery County, Alabama",0.4938
+"Morgan County, Alabama",0.4573
+"St. Clair County, Alabama",0.4079
+"Shelby County, Alabama",0.4424
+"Talladega County, Alabama",0.4726
+"Tuscaloosa County, Alabama",0.4686
+"Walker County, Alabama",0.4582
+"Anchorage Municipality, Alaska",0.4525
+"Fairbanks North Star Borough, Alaska",0.3956
+"Matanuska-Susitna Borough, Alaska",0.3862
+"Apache County, Arizona",0.5056
+"Cochise County, Arizona",0.4506
+"Coconino County, Arizona",0.483
+"Maricopa County, Arizona",0.4716
+"Mohave County, Arizona",0.4286
+"Navajo County, Arizona",0.4682
+"Pima County, Arizona",0.4707
+"Pinal County, Arizona",0.4276
+"Yavapai County, Arizona",0.4294
+"Yuma County, Arizona",0.4379
+"Benton County, Arkansas",0.4622
+"Craighead County, Arkansas",0.4681
+"Faulkner County, Arkansas",0.4606
+"Garland County, Arkansas",0.5256
+"Jefferson County, Arkansas",0.4805
+"Lonoke County, Arkansas",0.3799
+"Pulaski County, Arkansas",0.5146
+"Saline County, Arkansas",0.3935
+"Sebastian County, Arkansas",0.4972
+"Washington County, Arkansas",0.4755
+"White County, Arkansas",0.4775
+"Alameda County, California",0.463
+"Butte County, California",0.4666
+"Contra Costa County, California",0.4709
+"El Dorado County, California",0.445
+"Fresno County, California",0.4711
+"Humboldt County, California",0.4833
+"Imperial County, California",0.4621
+"Kern County, California",0.4609
+"Kings County, California",0.4678
+"Lake County, California",0.4417
+"Los Angeles County, California",0.4992
+"Madera County, California",0.4552
+"Marin County, California",0.5315
+"Mendocino County, California",0.4715
+"Merced County, California",0.4763
+"Monterey County, California",0.4704
+"Napa County, California",0.5005
+"Nevada County, California",0.4494
+"Orange County, California",0.4703
+"Placer County, California",0.441
+"Riverside County, California",0.4492
+"Sacramento County, California",0.4558
+"San Bernardino County, California",0.4445
+"San Diego County, California",0.4589
+"San Francisco County, California",0.5208
+"San Joaquin County, California",0.452
+"San Luis Obispo County, California",0.4658
+"San Mateo County, California",0.4859
+"Santa Barbara County, California",0.4811
+"Santa Clara County, California",0.4629
+"Santa Cruz County, California",0.4833
+"Shasta County, California",0.4584
+"Solano County, California",0.425
+"Sonoma County, California",0.4657
+"Stanislaus County, California",0.4485
+"Sutter County, California",0.4501
+"Tulare County, California",0.4772
+"Ventura County, California",0.4404
+"Yolo County, California",0.4815
+"Yuba County, California",0.4363
+"Adams County, Colorado",0.4079
+"Arapahoe County, Colorado",0.4633
+"Boulder County, Colorado",0.4857
+"Broomfield County, Colorado",0.4167
+"Denver County, Colorado",0.4927
+"Douglas County, Colorado",0.3975
+"El Paso County, Colorado",0.4331
+"Jefferson County, Colorado",0.4422
+"Larimer County, Colorado",0.4469
+"Mesa County, Colorado",0.4448
+"Pueblo County, Colorado",0.4748
+"Weld County, Colorado",0.3993
+"Fairfield County, Connecticut",0.5404
+"Hartford County, Connecticut",0.4684
+"Litchfield County, Connecticut",0.4678
+"Middlesex County, Connecticut",0.4271
+"New Haven County, Connecticut",0.4617
+"New London County, Connecticut",0.4446
+"Tolland County, Connecticut",0.4376
+"Windham County, Connecticut",0.3897
+"Kent County, Delaware",0.4375
+"New Castle County, Delaware",0.4543
+"Sussex County, Delaware",0.446
+"District of Columbia, District of Columbia",0.5354
+"Alachua County, Florida",0.5026
+"Bay County, Florida",0.4446
+"Brevard County, Florida",0.4471
+"Broward County, Florida",0.4788
+"Charlotte County, Florida",0.461
+"Citrus County, Florida",0.4638
+"Clay County, Florida",0.4058
+"Collier County, Florida",0.5259
+"Columbia County, Florida",0.429
+"Duval County, Florida",0.4765
+"Escambia County, Florida",0.4206
+"Flagler County, Florida",0.4312
+"Hernando County, Florida",0.4243
+"Highlands County, Florida",0.5118
+"Hillsborough County, Florida",0.4737
+"Indian River County, Florida",0.5246
+"Lake County, Florida",0.4086
+"Lee County, Florida",0.4776
+"Leon County, Florida",0.4889
+"Manatee County, Florida",0.4585
+"Marion County, Florida",0.4422
+"Martin County, Florida",0.506
+"Miami-Dade County, Florida",0.5402
+"Monroe County, Florida",0.505
+"Nassau County, Florida",0.4645
+"Okaloosa County, Florida",0.4268
+"Orange County, Florida",0.4841
+"Osceola County, Florida",0.4469
+"Palm Beach County, Florida",0.5172
+"Pasco County, Florida",0.449
+"Pinellas County, Florida",0.4937
+"Polk County, Florida",0.4325
+"Putnam County, Florida",0.4787
+"St. Johns County, Florida",0.4949
+"St. Lucie County, Florida",0.4492
+"Santa Rosa County, Florida",0.4218
+"Sarasota County, Florida",0.4716
+"Seminole County, Florida",0.4629
+"Sumter County, Florida",0.4335
+"Volusia County, Florida",0.4673
+"Barrow County, Georgia",0.4671
+"Bartow County, Georgia",0.4221
+"Bibb County, Georgia",0.5105
+"Bulloch County, Georgia",0.5049
+"Carroll County, Georgia",0.4816
+"Catoosa County, Georgia",0.4091
+"Chatham County, Georgia",0.4637
+"Cherokee County, Georgia",0.4055
+"Clarke County, Georgia",0.5462
+"Clayton County, Georgia",0.4321
+"Cobb County, Georgia",0.4538
+"Columbia County, Georgia",0.3946
+"Coweta County, Georgia",0.4023
+"DeKalb County, Georgia",0.4822
+"Dougherty County, Georgia",0.496
+"Douglas County, Georgia",0.3883
+"Fayette County, Georgia",0.4491
+"Floyd County, Georgia",0.4687
+"Forsyth County, Georgia",0.4081
+"Fulton County, Georgia",0.5352
+"Glynn County, Georgia",0.4958
+"Gwinnett County, Georgia",0.418
+"Hall County, Georgia",0.4754
+"Henry County, Georgia",0.3826
+"Houston County, Georgia",0.4355
+"Liberty County, Georgia",0.4283
+"Lowndes County, Georgia",0.4754
+"Muscogee County, Georgia",0.497
+"Newton County, Georgia",0.4017
+"Paulding County, Georgia",0.3844
+"Richmond County, Georgia",0.4704
+"Rockdale County, Georgia",0.4037
+"Troup County, Georgia",0.4832
+"Walker County, Georgia",0.4495
+"Walton County, Georgia",0.4309
+"Whitfield County, Georgia",0.4723
+"Hawaii County, Hawaii",0.4432
+"Honolulu County, Hawaii",0.4322
+"Kauai County, Hawaii",0.4076
+"Maui County, Hawaii",0.4205
+"Ada County, Idaho",0.4678
+"Bannock County, Idaho",0.4656
+"Bonneville County, Idaho",0.502
+"Canyon County, Idaho",0.412
+"Kootenai County, Idaho",0.458
+"Twin Falls County, Idaho",0.4232
+"Adams County, Illinois",0.4536
+"Champaign County, Illinois",0.5061
+"Cook County, Illinois",0.5094
+"DeKalb County, Illinois",0.4431
+"DuPage County, Illinois",0.4562
+"Kane County, Illinois",0.4461
+"Kankakee County, Illinois",0.4321
+"Kendall County, Illinois",0.3791
+"Lake County, Illinois",0.4818
+"LaSalle County, Illinois",0.428
+"McHenry County, Illinois",0.3957
+"McLean County, Illinois",0.4666
+"Macon County, Illinois",0.4794
+"Madison County, Illinois",0.4414
+"Peoria County, Illinois",0.4812
+"Rock Island County, Illinois",0.426
+"St. Clair County, Illinois",0.4639
+"Sangamon County, Illinois",0.4646
+"Tazewell County, Illinois",0.4163
+"Vermilion County, Illinois",0.4523
+"Will County, Illinois",0.4146
+"Williamson County, Illinois",0.4731
+"Winnebago County, Illinois",0.4342
+"Allen County, Indiana",0.4719
+"Bartholomew County, Indiana",0.4313
+"Clark County, Indiana",0.3982
+"Delaware County, Indiana",0.4544
+"Elkhart County, Indiana",0.4415
+"Floyd County, Indiana",0.4406
+"Grant County, Indiana",0.4043
+"Hamilton County, Indiana",0.4485
+"Hancock County, Indiana",0.3651
+"Hendricks County, Indiana",0.3854
+"Howard County, Indiana",0.4359
+"Johnson County, Indiana",0.3956
+"Kosciusko County, Indiana",0.3985
+"Lake County, Indiana",0.4424
+"LaPorte County, Indiana",0.4666
+"Madison County, Indiana",0.4129
+"Marion County, Indiana",0.481
+"Monroe County, Indiana",0.5048
+"Morgan County, Indiana",0.4115
+"Porter County, Indiana",0.4337
+"St. Joseph County, Indiana",0.4575
+"Tippecanoe County, Indiana",0.4555
+"Vanderburgh County, Indiana",0.48
+"Vigo County, Indiana",0.4828
+"Wayne County, Indiana",0.5028
+"Black Hawk County, Iowa",0.4605
+"Dallas County, Iowa",0.4415
+"Dubuque County, Iowa",0.4187
+"Johnson County, Iowa",0.4863
+"Linn County, Iowa",0.4376
+"Polk County, Iowa",0.45
+"Pottawattamie County, Iowa",0.4008
+"Scott County, Iowa",0.4423
+"Story County, Iowa",0.4818
+"Woodbury County, Iowa",0.4381
+"Butler County, Kansas",0.3996
+"Douglas County, Kansas",0.5017
+"Johnson County, Kansas",0.4523
+"Leavenworth County, Kansas",0.4189
+"Riley County, Kansas",0.468
+"Sedgwick County, Kansas",0.4641
+"Shawnee County, Kansas",0.4438
+"Wyandotte County, Kansas",0.4264
+"Boone County, Kentucky",0.4368
+"Bullitt County, Kentucky",0.3664
+"Campbell County, Kentucky",0.4774
+"Christian County, Kentucky",0.4036
+"Daviess County, Kentucky",0.4653
+"Fayette County, Kentucky",0.5052
+"Hardin County, Kentucky",0.4206
+"Jefferson County, Kentucky",0.4773
+"Kenton County, Kentucky",0.4453
+"McCracken County, Kentucky",0.5792
+"Madison County, Kentucky",0.4548
+"Pike County, Kentucky",0.5096
+"Warren County, Kentucky",0.4825
+"Ascension Parish, Louisiana",0.4089
+"Bossier Parish, Louisiana",0.4478
+"Caddo Parish, Louisiana",0.4995
+"Calcasieu Parish, Louisiana",0.4737
+"East Baton Rouge Parish, Louisiana",0.4943
+"Iberia Parish, Louisiana",0.5086
+"Jefferson Parish, Louisiana",0.4466
+"Lafayette Parish, Louisiana",0.5113
+"Lafourche Parish, Louisiana",0.4639
+"Livingston Parish, Louisiana",0.4317
+"Orleans Parish, Louisiana",0.5636
+"Ouachita Parish, Louisiana",0.51
+"Rapides Parish, Louisiana",0.4774
+"St. Landry Parish, Louisiana",0.5526
+"St. Tammany Parish, Louisiana",0.4647
+"Tangipahoa Parish, Louisiana",0.4905
+"Terrebonne Parish, Louisiana",0.4564
+"Androscoggin County, Maine",0.4275
+"Aroostook County, Maine",0.4766
+"Cumberland County, Maine",0.4685
+"Kennebec County, Maine",0.4269
+"Penobscot County, Maine",0.4481
+"York County, Maine",0.4127
+"Allegany County, Maryland",0.4426
+"Anne Arundel County, Maryland",0.4129
+"Baltimore County, Maryland",0.4558
+"Calvert County, Maryland",0.3525
+"Carroll County, Maryland",0.3902
+"Cecil County, Maryland",0.395
+"Charles County, Maryland",0.3621
+"Frederick County, Maryland",0.416
+"Harford County, Maryland",0.4234
+"Howard County, Maryland",0.3899
+"Montgomery County, Maryland",0.4667
+"Prince George's County, Maryland",0.3961
+"St. Mary's County, Maryland",0.3866
+"Washington County, Maryland",0.4388
+"Wicomico County, Maryland",0.4094
+"Baltimore city, Maryland",0.5192
+"Barnstable County, Massachusetts",0.4593
+"Berkshire County, Massachusetts",0.471
+"Bristol County, Massachusetts",0.447
+"Essex County, Massachusetts",0.4853
+"Franklin County, Massachusetts",0.4499
+"Hampden County, Massachusetts",0.4655
+"Hampshire County, Massachusetts",0.476
+"Middlesex County, Massachusetts",0.4641
+"Norfolk County, Massachusetts",0.4755
+"Plymouth County, Massachusetts",0.4618
+"Suffolk County, Massachusetts",0.5392
+"Worcester County, Massachusetts",0.4601
+"Allegan County, Michigan",0.4
+"Bay County, Michigan",0.4148
+"Berrien County, Michigan",0.4986
+"Calhoun County, Michigan",0.4363
+"Clinton County, Michigan",0.4268
+"Eaton County, Michigan",0.4066
+"Genesee County, Michigan",0.4554
+"Grand Traverse County, Michigan",0.4389
+"Ingham County, Michigan",0.4825
+"Isabella County, Michigan",0.4987
+"Jackson County, Michigan",0.4489
+"Kalamazoo County, Michigan",0.4696
+"Kent County, Michigan",0.4707
+"Lapeer County, Michigan",0.4097
+"Lenawee County, Michigan",0.4162
+"Livingston County, Michigan",0.3951
+"Macomb County, Michigan",0.4237
+"Marquette County, Michigan",0.4326
+"Midland County, Michigan",0.46
+"Monroe County, Michigan",0.4113
+"Muskegon County, Michigan",0.4283
+"Oakland County, Michigan",0.466
+"Ottawa County, Michigan",0.4237
+"Saginaw County, Michigan",0.4746
+"St. Clair County, Michigan",0.4207
+"Shiawassee County, Michigan",0.3746
+"Van Buren County, Michigan",0.4613
+"Washtenaw County, Michigan",0.4731
+"Wayne County, Michigan",0.5025
+"Anoka County, Minnesota",0.3936
+"Blue Earth County, Minnesota",0.4464
+"Carver County, Minnesota",0.4309
+"Dakota County, Minnesota",0.4042
+"Hennepin County, Minnesota",0.4838
+"Olmsted County, Minnesota",0.4613
+"Ramsey County, Minnesota",0.4539
+"Rice County, Minnesota",0.4358
+"St. Louis County, Minnesota",0.449
+"Scott County, Minnesota",0.4026
+"Sherburne County, Minnesota",0.3686
+"Stearns County, Minnesota",0.4293
+"Washington County, Minnesota",0.424
+"Wright County, Minnesota",0.3781
+"DeSoto County, Mississippi",0.4146
+"Forrest County, Mississippi",0.4756
+"Harrison County, Mississippi",0.446
+"Hinds County, Mississippi",0.4808
+"Jackson County, Mississippi",0.4679
+"Jones County, Mississippi",0.542
+"Lauderdale County, Mississippi",0.4918
+"Lee County, Mississippi",0.4633
+"Madison County, Mississippi",0.4564
+"Rankin County, Mississippi",0.4171
+"Boone County, Missouri",0.4789
+"Buchanan County, Missouri",0.4088
+"Cape Girardeau County, Missouri",0.4947
+"Cass County, Missouri",0.3988
+"Christian County, Missouri",0.3917
+"Clay County, Missouri",0.4003
+"Cole County, Missouri",0.3943
+"Franklin County, Missouri",0.4411
+"Greene County, Missouri",0.4429
+"Jackson County, Missouri",0.474
+"Jasper County, Missouri",0.4287
+"Jefferson County, Missouri",0.3931
+"Platte County, Missouri",0.4204
+"St. Charles County, Missouri",0.4012
+"St. Francois County, Missouri",0.3969
+"St. Louis County, Missouri",0.4886
+"St. Louis city, Missouri",0.5099
+"Cascade County, Montana",0.5014
+"Flathead County, Montana",0.491
+"Gallatin County, Montana",0.4626
+"Lewis and Clark County, Montana",0.3944
+"Missoula County, Montana",0.4678
+"Yellowstone County, Montana",0.4405
+"Douglas County, Nebraska",0.479
+"Lancaster County, Nebraska",0.4442
+"Sarpy County, Nebraska",0.3724
+"Clark County, Nevada",0.4604
+"Washoe County, Nevada",0.4513
+"Cheshire County, New Hampshire",0.4408
+"Grafton County, New Hampshire",0.4976
+"Hillsborough County, New Hampshire",0.4277
+"Merrimack County, New Hampshire",0.4256
+"Rockingham County, New Hampshire",0.4053
+"Strafford County, New Hampshire",0.432
+"Atlantic County, New Jersey",0.472
+"Bergen County, New Jersey",0.4812
+"Burlington County, New Jersey",0.4348
+"Camden County, New Jersey",0.459
+"Cape May County, New Jersey",0.4674
+"Cumberland County, New Jersey",0.4286
+"Essex County, New Jersey",0.5621
+"Gloucester County, New Jersey",0.4231
+"Hudson County, New Jersey",0.506
+"Hunterdon County, New Jersey",0.4331
+"Mercer County, New Jersey",0.4858
+"Middlesex County, New Jersey",0.4387
+"Monmouth County, New Jersey",0.4818
+"Morris County, New Jersey",0.4614
+"Ocean County, New Jersey",0.4491
+"Passaic County, New Jersey",0.4792
+"Salem County, New Jersey",0.4551
+"Somerset County, New Jersey",0.4549
+"Sussex County, New Jersey",0.4331
+"Union County, New Jersey",0.4931
+"Warren County, New Jersey",0.4261
+"Bernalillo County, New Mexico",0.4811
+"Chaves County, New Mexico",0.4506
+"Do?a Ana County, New Mexico",0.4795
+"Lea County, New Mexico",0.4317
+"McKinley County, New Mexico",0.5309
+"Otero County, New Mexico",0.44
+"Sandoval County, New Mexico",0.4125
+"San Juan County, New Mexico",0.4571
+"Santa Fe County, New Mexico",0.4865
+"Valencia County, New Mexico",0.4343
+"Albany County, New York",0.4784
+"Bronx County, New York",0.51
+"Broome County, New York",0.4556
+"Cattaraugus County, New York",0.4134
+"Cayuga County, New York",0.4106
+"Chautauqua County, New York",0.4376
+"Chemung County, New York",0.4248
+"Clinton County, New York",0.41
+"Dutchess County, New York",0.4388
+"Erie County, New York",0.4619
+"Jefferson County, New York",0.4071
+"Kings County, New York",0.5277
+"Livingston County, New York",0.4199
+"Madison County, New York",0.4061
+"Monroe County, New York",0.4571
+"Nassau County, New York",0.4538
+"New York County, New York",0.6011
+"Niagara County, New York",0.456
+"Oneida County, New York",0.4803
+"Onondaga County, New York",0.4567
+"Ontario County, New York",0.4756
+"Orange County, New York",0.4354
+"Oswego County, New York",0.4133
+"Putnam County, New York",0.4006
+"Queens County, New York",0.4514
+"Rensselaer County, New York",0.4502
+"Richmond County, New York",0.4545
+"Rockland County, New York",0.4559
+"St. Lawrence County, New York",0.4445
+"Saratoga County, New York",0.3818
+"Schenectady County, New York",0.4342
+"Steuben County, New York",0.4774
+"Suffolk County, New York",0.4458
+"Sullivan County, New York",0.4771
+"Tompkins County, New York",0.4822
+"Ulster County, New York",0.4467
+"Warren County, New York",0.4596
+"Wayne County, New York",0.4258
+"Westchester County, New York",0.5508
+"Alamance County, North Carolina",0.4703
+"Brunswick County, North Carolina",0.4697
+"Buncombe County, North Carolina",0.4641
+"Burke County, North Carolina",0.4403
+"Cabarrus County, North Carolina",0.4414
+"Caldwell County, North Carolina",0.4353
+"Carteret County, North Carolina",0.4809
+"Catawba County, North Carolina",0.4786
+"Chatham County, North Carolina",0.4869
+"Cleveland County, North Carolina",0.4745
+"Craven County, North Carolina",0.4282
+"Cumberland County, North Carolina",0.4565
+"Davidson County, North Carolina",0.4485
+"Durham County, North Carolina",0.4701
+"Forsyth County, North Carolina",0.4957
+"Gaston County, North Carolina",0.4665
+"Guilford County, North Carolina",0.4931
+"Harnett County, North Carolina",0.4156
+"Henderson County, North Carolina",0.451
+"Iredell County, North Carolina",0.4714
+"Johnston County, North Carolina",0.3989
+"Lincoln County, North Carolina",0.4831
+"Mecklenburg County, North Carolina",0.4891
+"Moore County, North Carolina",0.4578
+"Nash County, North Carolina",0.4752
+"New Hanover County, North Carolina",0.4793
+"Onslow County, North Carolina",0.4135
+"Orange County, North Carolina",0.5169
+"Pitt County, North Carolina",0.5017
+"Randolph County, North Carolina",0.4147
+"Robeson County, North Carolina",0.4872
+"Rockingham County, North Carolina",0.4507
+"Rowan County, North Carolina",0.4361
+"Rutherford County, North Carolina",0.4449
+"Surry County, North Carolina",0.47
+"Union County, North Carolina",0.45
+"Wake County, North Carolina",0.4453
+"Wayne County, North Carolina",0.4448
+"Wilkes County, North Carolina",0.4483
+"Wilson County, North Carolina",0.4632
+"Burleigh County, North Dakota",0.4518
+"Cass County, North Dakota",0.4686
+"Grand Forks County, North Dakota",0.5038
+"Ward County, North Dakota",0.3934
+"Allen County, Ohio",0.442
+"Ashtabula County, Ohio",0.4153
+"Athens County, Ohio",0.5456
+"Belmont County, Ohio",0.4587
+"Butler County, Ohio",0.4423
+"Clark County, Ohio",0.4293
+"Clermont County, Ohio",0.426
+"Columbiana County, Ohio",0.4515
+"Cuyahoga County, Ohio",0.5019
+"Delaware County, Ohio",0.4356
+"Erie County, Ohio",0.4745
+"Fairfield County, Ohio",0.4126
+"Franklin County, Ohio",0.4759
+"Geauga County, Ohio",0.4962
+"Greene County, Ohio",0.4373
+"Hamilton County, Ohio",0.4995
+"Hancock County, Ohio",0.4058
+"Jefferson County, Ohio",0.4432
+"Lake County, Ohio",0.4054
+"Licking County, Ohio",0.4098
+"Lorain County, Ohio",0.4367
+"Lucas County, Ohio",0.4821
+"Mahoning County, Ohio",0.479
+"Marion County, Ohio",0.4302
+"Medina County, Ohio",0.4199
+"Miami County, Ohio",0.4633
+"Montgomery County, Ohio",0.4581
+"Muskingum County, Ohio",0.4376
+"Portage County, Ohio",0.4301
+"Richland County, Ohio",0.4167
+"Ross County, Ohio",0.426
+"Scioto County, Ohio",0.4749
+"Stark County, Ohio",0.4537
+"Summit County, Ohio",0.4766
+"Trumbull County, Ohio",0.4464
+"Tuscarawas County, Ohio",0.4308
+"Warren County, Ohio",0.4175
+"Wayne County, Ohio",0.419
+"Wood County, Ohio",0.4496
+"Canadian County, Oklahoma",0.4244
+"Cleveland County, Oklahoma",0.4241
+"Comanche County, Oklahoma",0.453
+"Creek County, Oklahoma",0.4592
+"Muskogee County, Oklahoma",0.4937
+"Oklahoma County, Oklahoma",0.4919
+"Payne County, Oklahoma",0.512
+"Pottawatomie County, Oklahoma",0.4666
+"Rogers County, Oklahoma",0.4311
+"Tulsa County, Oklahoma",0.4874
+"Wagoner County, Oklahoma",0.4086
+"Benton County, Oregon",0.4872
+"Clackamas County, Oregon",0.4466
+"Deschutes County, Oregon",0.4703
+"Douglas County, Oregon",0.4608
+"Jackson County, Oregon",0.4647
+"Josephine County, Oregon",0.4262
+"Klamath County, Oregon",0.4351
+"Lane County, Oregon",0.4618
+"Linn County, Oregon",0.427
+"Marion County, Oregon",0.433
+"Multnomah County, Oregon",0.4746
+"Polk County, Oregon",0.4046
+"Umatilla County, Oregon",0.4461
+"Washington County, Oregon",0.4354
+"Yamhill County, Oregon",0.4586
+"Adams County, Pennsylvania",0.3874
+"Allegheny County, Pennsylvania",0.4895
+"Armstrong County, Pennsylvania",0.4154
+"Beaver County, Pennsylvania",0.4308
+"Berks County, Pennsylvania",0.4512
+"Blair County, Pennsylvania",0.445
+"Bucks County, Pennsylvania",0.4511
+"Butler County, Pennsylvania",0.4147
+"Cambria County, Pennsylvania",0.4342
+"Carbon County, Pennsylvania",0.3946
+"Centre County, Pennsylvania",0.454
+"Chester County, Pennsylvania",0.4489
+"Clearfield County, Pennsylvania",0.4241
+"Columbia County, Pennsylvania",0.4612
+"Crawford County, Pennsylvania",0.423
+"Cumberland County, Pennsylvania",0.4159
+"Dauphin County, Pennsylvania",0.4258
+"Delaware County, Pennsylvania",0.4677
+"Erie County, Pennsylvania",0.4603
+"Fayette County, Pennsylvania",0.4856
+"Franklin County, Pennsylvania",0.3993
+"Indiana County, Pennsylvania",0.4508
+"Lackawanna County, Pennsylvania",0.4713
+"Lancaster County, Pennsylvania",0.4267
+"Lawrence County, Pennsylvania",0.4809
+"Lebanon County, Pennsylvania",0.4113
+"Lehigh County, Pennsylvania",0.4541
+"Luzerne County, Pennsylvania",0.443
+"Lycoming County, Pennsylvania",0.433
+"Mercer County, Pennsylvania",0.4266
+"Monroe County, Pennsylvania",0.3974
+"Montgomery County, Pennsylvania",0.4683
+"Northampton County, Pennsylvania",0.4213
+"Northumberland County, Pennsylvania",0.4433
+"Philadelphia County, Pennsylvania",0.5049
+"Schuylkill County, Pennsylvania",0.4396
+"Somerset County, Pennsylvania",0.4353
+"Washington County, Pennsylvania",0.4523
+"Westmoreland County, Pennsylvania",0.4612
+"York County, Pennsylvania",0.4103
+"Kent County, Rhode Island",0.4258
+"Newport County, Rhode Island",0.4963
+"Providence County, Rhode Island",0.4854
+"Washington County, Rhode Island",0.4321
+"Aiken County, South Carolina",0.4735
+"Anderson County, South Carolina",0.436
+"Beaufort County, South Carolina",0.4887
+"Berkeley County, South Carolina",0.4179
+"Charleston County, South Carolina",0.4931
+"Darlington County, South Carolina",0.5087
+"Dorchester County, South Carolina",0.4608
+"Florence County, South Carolina",0.4858
+"Greenville County, South Carolina",0.4608
+"Greenwood County, South Carolina",0.4605
+"Horry County, South Carolina",0.4435
+"Lancaster County, South Carolina",0.4205
+"Laurens County, South Carolina",0.4194
+"Lexington County, South Carolina",0.439
+"Oconee County, South Carolina",0.5241
+"Orangeburg County, South Carolina",0.4638
+"Pickens County, South Carolina",0.4528
+"Richland County, South Carolina",0.4661
+"Spartanburg County, South Carolina",0.4435
+"Sumter County, South Carolina",0.4048
+"York County, South Carolina",0.4586
+"Minnehaha County, South Dakota",0.4232
+"Pennington County, South Dakota",0.4459
+"Anderson County, Tennessee",0.512
+"Blount County, Tennessee",0.479
+"Bradley County, Tennessee",0.5281
+"Davidson County, Tennessee",0.487
+"Greene County, Tennessee",0.4942
+"Hamilton County, Tennessee",0.472
+"Knox County, Tennessee",0.4701
+"Madison County, Tennessee",0.4724
+"Maury County, Tennessee",0.4762
+"Montgomery County, Tennessee",0.3967
+"Putnam County, Tennessee",0.4994
+"Robertson County, Tennessee",0.3939
+"Rutherford County, Tennessee",0.4055
+"Sevier County, Tennessee",0.439
+"Shelby County, Tennessee",0.5039
+"Sullivan County, Tennessee",0.4743
+"Sumner County, Tennessee",0.4291
+"Washington County, Tennessee",0.5012
+"Williamson County, Tennessee",0.448
+"Wilson County, Tennessee",0.4222
+"Angelina County, Texas",0.4484
+"Bastrop County, Texas",0.4822
+"Bell County, Texas",0.4673
+"Bexar County, Texas",0.4656
+"Bowie County, Texas",0.5003
+"Brazoria County, Texas",0.4409
+"Brazos County, Texas",0.5091
+"Cameron County, Texas",0.4947
+"Collin County, Texas",0.4286
+"Comal County, Texas",0.4242
+"Coryell County, Texas",0.4547
+"Dallas County, Texas",0.5065
+"Denton County, Texas",0.4345
+"Ector County, Texas",0.4362
+"Ellis County, Texas",0.4167
+"El Paso County, Texas",0.4405
+"Fort Bend County, Texas",0.4255
+"Galveston County, Texas",0.476
+"Grayson County, Texas",0.463
+"Gregg County, Texas",0.437
+"Guadalupe County, Texas",0.3967
+"Harris County, Texas",0.4983
+"Harrison County, Texas",0.5097
+"Hays County, Texas",0.4497
+"Henderson County, Texas",0.4464
+"Hidalgo County, Texas",0.4928
+"Hunt County, Texas",0.4281
+"Jefferson County, Texas",0.4679
+"Johnson County, Texas",0.4433
+"Kaufman County, Texas",0.4293
+"Liberty County, Texas",0.4375
+"Lubbock County, Texas",0.4613
+"McLennan County, Texas",0.4752
+"Midland County, Texas",0.46
+"Montgomery County, Texas",0.4817
+"Nacogdoches County, Texas",0.5236
+"Nueces County, Texas",0.4732
+"Orange County, Texas",0.4348
+"Parker County, Texas",0.4602
+"Potter County, Texas",0.4813
+"Randall County, Texas",0.4145
+"Rockwall County, Texas",0.4338
+"San Patricio County, Texas",0.4539
+"Smith County, Texas",0.4819
+"Tarrant County, Texas",0.468
+"Taylor County, Texas",0.4616
+"Tom Green County, Texas",0.4764
+"Travis County, Texas",0.4937
+"Victoria County, Texas",0.4303
+"Walker County, Texas",0.4561
+"Webb County, Texas",0.4958
+"Wichita County, Texas",0.4489
+"Williamson County, Texas",0.3889
+"Cache County, Utah",0.427
+"Davis County, Utah",0.3802
+"Salt Lake County, Utah",0.4302
+"Utah County, Utah",0.4207
+"Washington County, Utah",0.4372
+"Weber County, Utah",0.4115
+"Chittenden County, Vermont",0.4449
+"Albemarle County, Virginia",0.4771
+"Arlington County, Virginia",0.4299
+"Augusta County, Virginia",0.4142
+"Bedford County, Virginia",0.4453
+"Chesterfield County, Virginia",0.408
+"Fairfax County, Virginia",0.4225
+"Fauquier County, Virginia",0.4155
+"Frederick County, Virginia",0.3877
+"Hanover County, Virginia",0.3999
+"Henrico County, Virginia",0.4491
+"James City County, Virginia",0.3936
+"Loudoun County, Virginia",0.392
+"Montgomery County, Virginia",0.5082
+"Prince William County, Virginia",0.3811
+"Roanoke County, Virginia",0.3729
+"Rockingham County, Virginia",0.4177
+"Spotsylvania County, Virginia",0.3968
+"Stafford County, Virginia",0.3639
+"York County, Virginia",0.4035
+"Alexandria city, Virginia",0.4619
+"Chesapeake city, Virginia",0.3993
+"Hampton city, Virginia",0.4336
+"Lynchburg city, Virginia",0.5197
+"Newport News city, Virginia",0.4517
+"Norfolk city, Virginia",0.4992
+"Portsmouth city, Virginia",0.4115
+"Richmond city, Virginia",0.5586
+"Roanoke city, Virginia",0.4673
+"Suffolk city, Virginia",0.4309
+"Virginia Beach city, Virginia",0.4037
+"Benton County, Washington",0.4206
+"Chelan County, Washington",0.4267
+"Clallam County, Washington",0.4688
+"Clark County, Washington",0.4294
+"Cowlitz County, Washington",0.4223
+"Franklin County, Washington",0.4096
+"Grant County, Washington",0.4097
+"Grays Harbor County, Washington",0.4512
+"Island County, Washington",0.3937
+"King County, Washington",0.4612
+"Kitsap County, Washington",0.4083
+"Lewis County, Washington",0.418
+"Pierce County, Washington",0.4277
+"Skagit County, Washington",0.4261
+"Snohomish County, Washington",0.4138
+"Spokane County, Washington",0.458
+"Thurston County, Washington",0.4082
+"Whatcom County, Washington",0.4653
+"Yakima County, Washington",0.4583
+"Berkeley County, West Virginia",0.3889
+"Cabell County, West Virginia",0.4758
+"Harrison County, West Virginia",0.4504
+"Kanawha County, West Virginia",0.4443
+"Monongalia County, West Virginia",0.5099
+"Raleigh County, West Virginia",0.4353
+"Wood County, West Virginia",0.482
+"Brown County, Wisconsin",0.4219
+"Dane County, Wisconsin",0.4487
+"Dodge County, Wisconsin",0.3842
+"Eau Claire County, Wisconsin",0.4338
+"Fond du Lac County, Wisconsin",0.4188
+"Jefferson County, Wisconsin",0.3745
+"Kenosha County, Wisconsin",0.4359
+"La Crosse County, Wisconsin",0.4847
+"Manitowoc County, Wisconsin",0.398
+"Marathon County, Wisconsin",0.4437
+"Milwaukee County, Wisconsin",0.4784
+"Outagamie County, Wisconsin",0.3995
+"Ozaukee County, Wisconsin",0.4933
+"Portage County, Wisconsin",0.4317
+"Racine County, Wisconsin",0.4202
+"Rock County, Wisconsin",0.4165
+"St. Croix County, Wisconsin",0.3778
+"Sheboygan County, Wisconsin",0.4041
+"Walworth County, Wisconsin",0.4236
+"Washington County, Wisconsin",0.3729
+"Waukesha County, Wisconsin",0.4378
+"Winnebago County, Wisconsin",0.4347
+"Wood County, Wisconsin",0.415
+"Laramie County, Wyoming",0.4538
+"Natrona County, Wyoming",0.4622
+"Arecibo Municipio, Puerto Rico",0.5173
+"Bayamón Municipio, Puerto Rico",0.4862
+"Caguas Municipio, Puerto Rico",0.5302
+"Carolina Municipio, Puerto Rico",0.5115
+"Guaynabo Municipio, Puerto Rico",0.6064
+"Mayagüez Municipio, Puerto Rico",0.595
+"Ponce Municipio, Puerto Rico",0.6039
+"San Juan Municipio, Puerto Rico",0.6508
+"Toa Alta Municipio, Puerto Rico",0.4682
+"Toa Baja Municipio, Puerto Rico",0.4688
+"Trujillo Alto Municipio, Puerto Rico",0.5047
