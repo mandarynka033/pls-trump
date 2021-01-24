@@ -17,6 +17,7 @@ library(plsdepot)
 library(ggplot2)
 library(foreign)
 library(stringr)
+library(readr)
 ```
 
 
@@ -124,7 +125,7 @@ colnames(data)[41] <- "High School"
 Contains religion data.
 
 ```{r}
-relig_data <- read.csv("relig_data.csv")
+relig_data <- read_csv("relig_data.csv")
 
 # Choosing columns with religion rates per 1,000 inhabitants
 relig_rate <- relig_data[, grepl("RATE", names(relig_data))]
@@ -197,9 +198,8 @@ pls_model <- plsreg2(responses = data[31:32], predictors = data[-c(1:2, 31:32)],
                      comps = NULL, crosval = TRUE)
 ```
 
-## Age Coefficients
-
 ```{r }
+theme_set(theme_minimal())
 age_coef <- pls_model$std.coefs[1:18, 1:2]
 age_df <- data.frame("diff" = age_coef[1:36],
                      "years" = c(rep("2008-2016", 18), rep("2012-2016", 18)), 
@@ -211,11 +211,9 @@ plt_age <- ggplot(data = age_df, aes(x = reorder(age, order), y = diff,
   geom_bar(stat = "identity", position = position_dodge()) 
 ```
 ```{r echo = FALSE, fig.width=10, fig.height=4}
-plt_age + theme(legend.position = "bottom") + xlab("Age") +
-  ylab("Difference in votes' proportion")
+plt_age + theme(legend.position = "bottom", plot.title = element_text(size = 20)) + 
+  labs(x = "Age", y = "Difference in votes' proportion", title = "Age Coefficients") 
 ```
-
-## Race and gender coefficients
 
 ```{r }
 make_graph <- function(vec){
@@ -226,32 +224,25 @@ make_graph <- function(vec){
                      "value" = rep(row.names(coefs), 2))
   plt <- ggplot(data = df, aes(x = value, y = diff, fill = years)) + 
     geom_bar(stat = "identity", position = position_dodge()) + 
-    theme(legend.position = "bottom", axis.title.x = element_blank()) + 
-    ylab("Difference in votes' proportion")
+    theme(legend.position = "bottom", axis.title.x = element_blank(),
+          plot.title = element_text(size = 20)) + 
+    ylab("Difference in votes' proportion") 
   return(plt)
 }
 
 ```
 ```{r echo = FALSE, fig.height=3, fig.width=6}
-make_graph(19:26) + xlab("Race")
+make_graph(19:26) + labs(x = "Race", title = "Race and gender coefficients")
 ```
-
-## Demographics coefficients
 
 ```{r echo = FALSE, fig.width=10, fig.height=4}
-make_graph(c(27:29, 35:38)) + theme(axis.text.x = element_text(size = 11))
+make_graph(c(27:29, 35:38)) + theme(axis.text.x = element_text(size = 11)) +
+  labs(title = "Demographic coefficients")
 ```
-
-## Industry coefficients
-
 ```{r echo = FALSE, fig.height=2.8, fig.width=5}
-make_graph(30:34) 
-```
+make_graph(30:34) + labs(title = "Industry coefficients")
 
-## Religion coeffients
-
-```{r echo = FALSE, fig.height=2.8, fig.width=5}
-make_graph(39:43)
+make_graph(39:43) + labs(title = "Religion coeffients")
 ```
 
 The religion coefficients are quite unexpected. Mainline should be much less conservative than evangelical. Maybe it is included instead in other variables. Maybe it depends on how I joined the religions, we could possibly just treat all of them separately. Maybe mainline protestants liked Trump.
